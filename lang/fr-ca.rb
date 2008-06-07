@@ -48,7 +48,7 @@ ActiveScaffold::Localization.define('fr-ca') do |lang|
   lang['Updated %s'] ||= '%s mis à jour'
 
   # AS error messages
-  lang['Version inconsistency - this record has been modified since you started editing it.'] ||= 'Version inconsistency - this record has been modified since you started editing it.'
+  lang['Version inconsistency - this record has been modified since you started editing it.'] ||= 'Incompatibilité des versions – cet enregistrement a été modifié depuis que vous avez commencé à l’éditer.'
 
   # Rails error messages
   lang["is not included in the list"] ||= "n'est pas inclut dans la liste"
@@ -73,14 +73,14 @@ ActiveScaffold::Localization.define('fr-ca') do |lang|
     # don't translate, just re-order
     :date_helper_date_formats => {
       :default => "%d-%m-%Y",
-      :short => "%b %e",
-      :long => "%B %e, %Y"
+      :short => "%e %b",
+      :long => "%e %B %Y"      
     },
     # don't translate, just re-order
     :date_helper_time_formats => {
       :default => "%a, %d %b %Y %H:%M:%S %z",
-      :short => "%d %b %H:%M",
-      :long => "%B %d, %Y %H:%M"
+      :short => "%e %b %H:%M",
+      :long => "%e %B %Y %H:%M"
     },
     # added at the end of date if your date system doesn't use a 24 hours system
     :date_helper_am => 'am',
@@ -376,6 +376,6 @@ ActiveScaffold::Localization.define('fr-ca') do |lang|
     ["Western Sahara",                               "Western Sahara"],
     ["Yemen",                                        "Yemen"],
     ["Zambia",                                       "Zambia"],
-    ["Zimbabwe"                                      "Zimbabwe"]
+    ["Zimbabwe",                                     "Zimbabwe"]
   ]
 end

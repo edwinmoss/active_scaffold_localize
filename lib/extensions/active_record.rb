@@ -41,23 +41,7 @@ module ActiveRecord # :nodoc:
       end
       full_messages
     end
-    
-    def full_messages
-      full_messages = []
 
-      @errors.each_key do |attr|
-        @errors[attr].each do |msg|
-          next if msg.nil?
-          msg_text, msg_num = msg
-          if attr == "base"
-            full_messages << msg_text
-          else            
-            full_messages << @base.class.human_attribute_name(attr) + " " + msg_text
-          end
-        end
-      end
-      full_messages
-    end
   end
 
   module Validations # :nodoc: all

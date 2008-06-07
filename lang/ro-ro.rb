@@ -1,78 +1,78 @@
-ActiveScaffold::Localization.define('en-us') do |lang|
-  lang['Add'] ||= 'Add'
-  lang['Add Existing'] ||= 'Add Existing'
-  lang['Are you sure?'] ||= 'Are you sure?'
-  lang['Cancel'] ||= 'Cancel'
-  lang['Click to edit'] ||= 'Click to edit'
-  lang['Close'] ||= 'Close'
-  lang['Create'] ||= 'Create'
-  lang['Create %s'] ||= 'Create %s'
-  lang['Create Another'] ||= 'Create Another'
-  lang['Created %s'] ||= 'Created %s'
-  lang['Create New'] ||= 'Create New'
-  lang['Customize'] ||= 'Customize'
-  lang['Delete'] ||= 'Delete'
-  lang['Deleted %s'] ||= 'Deleted %s'
-  lang['Delimiter'] ||= 'Delimiter'
+ActiveScaffold::Localization.define('ro-ro') do |lang|
+  lang['Add'] ||= 'Adauga'
+  lang['Add Existing'] ||= 'Adauga din lista'
+  lang['Are you sure?'] ||= 'Sunteti sigur?'
+  lang['Cancel'] ||= 'Anulare'
+  lang['Click to edit'] ||= 'Click pentru editare'
+  lang['Close'] ||= 'Inchide'
+  lang['Create'] ||= 'Creare'
+  lang['Create %s'] ||= 'Creare %s'
+  lang['Create Another'] ||= 'Creaza altul'
+  lang['Created %s'] ||= 'Creat %s'
+  lang['Create New'] ||= 'Creare'
+  lang['Customize'] ||= 'Personalizare'
+  lang['Delete'] ||= 'Sterge'
+  lang['Deleted %s'] ||= 'Sters %s'
+  lang['Delimiter'] ||= 'Separator'
   lang['Download'] ||= 'Download'
-  lang['Edit'] ||= 'Edit'
-  lang['Export'] ||= 'Export'
-  lang['%s for %s'] ||= '%s for %s'
-  lang['%d %s found'] ||= '%d %s found'
-  lang['(Filtered)'] ||= '(Filtered)'
-  lang['Found'] ||= 'Found'
-  lang['Live Search'] ||= 'Live Search'
-  lang['Loading…'] ||= 'Loading…'
-  lang['Next'] ||= 'Next'
-  lang['Next %d'] ||= 'Next %d'
-  lang['No Entries'] ||= 'No Entries'
-  lang['Omit Header'] ||= 'Omit Header'
-  lang['Options'] ||= 'Options'
+  lang['Edit'] ||= 'Modif.'
+  lang['Export'] ||= 'Exportare'
+  lang['%s for %s'] ||= '%s pentru %s'
+  lang['%d %s found'] ||= '%d %s gasit(e)'
+  lang['(Filtered)'] ||= '(Filtrat)'
+  lang['Found'] ||= 'gasit(e)'
+  lang['Live Search'] ||= 'Cautare rapida'
+  lang['Loading…'] ||= 'Incarcare…'
+  lang['Next'] ||= 'Urmatorul'
+  lang['Next %d'] ||= 'Urmatorul %d'
+  lang['No Entries'] ||= 'Nu sunt date'
+  lang['Omit Header'] ||= 'Fara antet'
+  lang['Options'] ||= 'Optiuni'
+  lang['Previous'] ||= 'Precedentul'
+  lang['Previous %d'] ||= 'Precedentul %d'
   lang['PDF'] ||= 'PDF'
-  lang['Previous'] ||= 'Previous'
-  lang['Previous %d'] ||= 'Previous %d'
-  lang['Print'] || 'Print'
-  lang['Remove'] ||= 'Remove'
-  lang['Remove file'] ||= 'Remove or Replace file'
-  lang['Replace With New'] ||= 'Replace With New'
-  lang['Reset'] ||= 'Reset'
-  lang['Saving…'] ||= 'Saving…'
-  lang['Search'] ||= 'Search'
-  lang['Search Terms'] ||= 'Search Terms'
-  lang['- select -'] ||= '- select -'
-  lang['Show'] ||= 'Show'
-  lang['Show %s'] ||= 'Show %s'
-  lang[' to '] ||= ' to '
-  lang['Update'] ||= 'Update'
-  lang['Update %s'] ||= 'Update %s'
-  lang['Updated %s'] ||= 'Updated %s'
+  lang['Print'] || 'Printare'
+  lang['Remove'] ||= 'Inlaturare'
+  lang['Remove file'] ||= 'Inlaturare sau inlocuire fisier'
+  lang['Replace With New'] ||= 'Inclocuire cu valori noi'
+  lang['Reset'] ||= 'Resetare'
+  lang['Saving…'] ||= 'Salvare…'
+  lang['Search'] ||= 'Cautare'
+  lang['Search Terms'] ||= 'Termeni de cautare'
+  lang['- select -'] ||= '- selecteaza -'
+  lang['Show'] ||= 'Arata'
+  lang['Show %s'] ||= 'Arata %s'
+  lang[' to '] ||= ' pana '
+  lang['Update'] ||= 'Modifica'
+  lang['Update %s'] ||= 'Modifica %s'
+  lang['Updated %s'] ||= 'Modificat %s'
 
   # AS error messages
-  lang['Version inconsistency - this record has been modified since you started editing it.'] ||= 'Version inconsistency - this record has been modified since you started editing it.'
+  lang['Version inconsistency - this record has been modified since you started editing it.'] ||= 'Inconsistanta! - Datele au fost modificate in paralel.'
   
   # Rails error messages
-  lang["is not included in the list"] ||= "is not included in the list"
-  lang["is reserved"] ||= "is reserved"
-  lang["is invalid"] ||= "is invalid"
-  lang["doesn't match confirmation"] ||= "doesn't match confirmation"
-  lang["must be accepted"] ||= "must be accepted"
-  lang["can't be empty"] ||= "can't be empty"
-  lang["can't be blank"] ||= "can't be blank"
-  lang["is too long (maximum is %d characters)"] ||= "is too long (maximum is %d characters)"
-  lang["is too short (minimum is %d characters)"] ||= "is too short (minimum is %d characters)"
-  lang["is the wrong length (should be %d characters)"] ||= "is the wrong length (should be %d characters)"
-  lang["has already been taken"] ||= "has already been taken"
-  lang["is not a number"] ||= "is not a number"
-  lang['%d error prohibited this %s from being saved'] ||= {1 => '%d error prohibited this %s from being saved', 2 => '%d errors prohibited this %s from being saved'}  
-  lang['There were problems with the following fields:'] ||= 'There were problems with the following fields:'
+  lang["is not included in the list"] ||= "nu este inclus in lista"
+  lang["is reserved"] ||= "este rezervat"
+  lang["is invalid"] ||= "este invalid"
+  lang["doesn't match confirmation"] ||= "nu corespunde confirmarii"
+  lang["must be accepted"] ||= "trebuie acceptat"
+  lang["can't be empty"] ||= "nu poate sa fie vid"
+  lang["can't be blank"] ||= "nu poate sa fie gol"
+  lang["is too long (maximum is %d characters)"] ||= "este prea lunga (lungime maxima %d caractere)"
+  lang["is too short (minimum is %d characters)"] ||= "este prea scurta (lungime minima %d caractere)"
+  lang["is the wrong length (should be %d characters)"] ||= "are lungimea incorecta (trebuie sa aiba %d caractere)"
+  lang["has already been taken"] ||= "deja a fost luat"
+  lang["is not a number"] ||= "nu este numar"
+  lang['%d error prohibited this %s from being saved'] ||= {1 => '%s nu poate fi salvat din cauza a unei erori', 2 => '$s nu poate fi salvat din cauza a mai multori erori (%d)'}  
+  lang['There were problems with the following fields:'] ||= 'Sunt probleme cu urmatoarele date:'
 
     # Dates
   lang[:date_helper] = {
-    :calendar_help => "yyyy-mm-dd or use calendar",
-    :calendar_tool_tip => 'Click to Show Calendar
-or try these Shortcuts:
-today (tod)
-tomorrow (tom)
+    :calendar_help => "aaaa-ll-zz sau foloseste Calendarul",
+    :calendar_tool_tip => 'Click pentru Calendar
+sau inceraca urmatoarele cuvinte cheie:
+aztazi (tod)
+maine (tom)
 yesterday
 6 (6th or 6th October)
 3rd of Feb
@@ -97,50 +97,50 @@ last mon
     :date_helper_am => 'am',
     :date_helper_pm => 'pm',
     :date_helper_month_names => ['',
-     'January',
-     'February',
-     'March',
-     'April',
-     'May',
-     'June',
-     'July',
+     'Ianuarie',
+     'Februarie',
+     'Martie',
+     'Aprilie',
+     'Mai',
+     'Iunie',
+     'Iulie',
      'August',
-     'September',
-     'October',
-     'November',
-     'December'],
+     'Septembrie',
+     'Octobrie',
+     'Noiembrie',
+     'Decembrie'],
 
     :date_helper_abbr_month_names => ['',
-      'Jan',
+      'Ian',
       'Feb',
       'Mar',
       'Apr',
-      'May',
-      'Jun',
-      'Jul',
+      'Mai',
+      'Iun',
+      'Iul',
       'Aug',
       'Sep',
       'Oct',
-      'Nov',
+      'Noi',
       'Dec'],
 
     :date_helper_day_names => [
-      'Sunday',
-      'Monday',
-      'Tuesday',
-      'Wednesday',
-      'Thursday',
-      'Friday',
-      'Saturday'],
+      'Duminica',
+      'Luni',
+      'Marti',
+      'Miercuri',
+      'Joi',
+      'Vineri',
+      'Sambata'],
 
     :date_helper_abbr_day_names => [
-      'Sun',
-      'Mon',
-      'Tue',
-      'Wed',
-      'Thu',
-      'Fri', 
-      'Sat']
+      'Dum',
+      'Lun',
+      'Mar',
+      'Mie',
+      'Joi',
+      'Vin', 
+      'Sam']
   }
   
   lang[:countries_list] = [

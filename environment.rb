@@ -1,5 +1,4 @@
-require 'localization'
-
+require "#{File.dirname __FILE__}/lib/localization"
 require "#{File.dirname __FILE__}/lib/extensions/active_record"
 require "#{File.dirname __FILE__}/lib/extensions/form_options_helper"
 require "#{File.dirname __FILE__}/lib/helpers/list_column_helpers"
