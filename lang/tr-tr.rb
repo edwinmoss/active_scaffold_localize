@@ -1,0 +1,51 @@
+ActiveScaffold::Localization.define('tr-tr') do |lang|
+  lang['Add'] ||= 'Ekle'
+  lang['Add Existing'] ||= 'Var olanı ekle'
+  lang['Are you sure?'] ||= 'Emin misin?'
+  lang['Cancel'] ||= 'İptal'
+  lang['Click to edit'] ||= 'Düzenlemek için tıkla'
+  lang['Close'] ||= 'Kapat'
+  lang['Create'] ||= 'Oluştur'
+  lang['Create %s'] ||= '% oluştur'
+  lang['Create Another'] ||= 'Bir tane daha oluştur'
+  lang['Created %s'] ||= '%s oluşturuldu'
+  lang['Create New'] ||= 'Yeni oluştur'
+  lang['Delete'] ||= 'Sil'
+  lang['Deleted %s'] ||= '%s silindi'
+  lang['Edit'] ||= 'Düzenle'
+  lang['%s for %s'] ||= '%s için %s'
+  lang['Found'] ||= 'Bulundu'
+  lang['Live Search'] ||= 'Canlı Arama'
+  lang['Loading...'] ||= 'Yükleniyor...'
+  lang['Next'] ||= 'Sonraki'
+  lang['No Entries'] ||= 'Girdi bulunamadı'
+  lang['Previous'] ||= 'Önceki'
+  lang['Remove'] ||= 'Kaldır'
+  lang['Replace With New'] ||= 'Yenisi ile değiştir'
+  lang['Reset'] ||= 'Sıfırla'
+  lang['Saving...'] ||= 'Kaydediliyor...'
+  lang['Search'] ||= 'Ara'
+  lang['Search Terms'] ||= 'Arama Koşulları'
+  lang['- select -'] ||= '- seç -'
+  lang['Show'] ||= 'Göster'
+  lang['Show %s'] ||= '%s göster'
+  lang['Update'] ||= 'Güncelle'
+  lang['Update %s'] ||= '%s güncelle'
+  lang['Updated %s'] ||= '%s güncellendi'
+
+  # Rails error messages
+  lang["is not included in the list"] ||= "listede yok"
+  lang["is reserved"] ||= "rezerveli"
+  lang["is invalid"] ||= "geçersiz"
+  lang["doesn't match confirmation"] ||= "onaya uymuyor"
+  lang["must be accepted"] ||= "kabul edilmeli"
+  lang["can't be empty"] ||= "boş bırakılamaz"
+  lang["can't be blank"] ||= "boş bırakılamaz"
+  lang["is too long (maximum is %d characters)"] ||= "çok uzun (en çok %d karakter)"
+  lang["is too short (minimum is %d characters)"] ||= "çok kısa (en az %d karakter)"
+  lang["is the wrong length (should be %d characters)"] ||= "yanlış uzunlukta (%d karakter olmalı)"
+  lang["has already been taken"] ||= "çoktan alındı"
+  lang["is not a number"] ||= "bir rakam degil"
+  lang['%d error prohibited this %s from being saved'] ||= "%s hata yuzünden %s kaydedilemedi"
+  lang['There were problems with the following fields:'] ||= 'Bu alanlarda sorun var:'
+end
