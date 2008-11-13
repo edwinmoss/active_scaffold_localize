@@ -3,46 +3,46 @@ ActiveScaffold::Localization.define('fr-fr') do |lang|
   lang['Add Existing'] ||= 'Ajouter des données existantes'
   lang['Are you sure?'] ||= 'Est-ce vraiment ce que vous voulez?'
   lang['Cancel'] ||= 'Annuler'
-  lang['Click to edit'] ||= 'Click to edit'
+  lang['Click to edit'] ||= 'Lien pour édition'
   lang['Close'] ||= 'Fermer'
   lang['Create'] ||= 'Créer'
   lang['Create %s'] ||= 'Créer à %s'
-  lang['Created %s'] ||= '%s créé'
-  lang['Create Another'] ||= 'Créer autre'
+  lang['Created %s'] ||= '%s créé(s)'
+  lang['Create Another'] ||= 'Créer un autre'
   lang['Create New'] ||= 'Créer nouveau'
-  lang['Customize'] ||= 'Customize'
+  lang['Customize'] ||= 'Personnalisation'
   lang['Delete'] ||= 'Supprimer'
-  lang['Deleted %s'] ||= '%s supprimé'
-  lang['Delimiter'] ||= 'Delimiter'
-  lang['Download'] ||= 'Download'
+  lang['Deleted %s'] ||= '%s supprimé(s)'
+  lang['Delimiter'] ||= 'Délimitateur'
+  lang['Download'] ||= 'Téléchargement'
   lang['Edit'] ||= 'Modifier'
   lang['Export'] ||= 'Export'
   lang['%s for %s'] ||= '%s pour %s'
   lang['%d %s found'] ||= '%d %s found'
-  lang['(Filtered)'] ||= '(Filtered)'
-  lang['Found'] ||= 'Trouvé'
+  lang['(Filtered)'] ||= '(Filtré)'
+  lang['Found'] ||= 'Trouvé(s)'
   lang['Live Search'] ||= 'Recherche en direct'
   lang['Loading…'] ||= 'Loading…'
   lang['Next'] ||= 'Prochain'
   lang['Next %d'] ||= 'Next %d'
   lang['No Entries'] ||= 'Aucune entrée'
-  lang['Omit Header'] ||= 'Omit Header'
+  lang['Omit Header'] ||= 'Sans entête'
   lang['Options'] ||= 'Options'
   lang['PDF'] ||= 'PDF'
   lang['Previous'] ||= 'Précédent'
   lang['Previous %d'] ||= 'Previous %d'
-  lang['Print'] || 'Print'
+  lang['Print'] || 'Impression'
   lang['Remove'] ||= 'Enlever'
-  lang['Remove file'] ||= 'Remove or Replace file'
+  lang['Remove file'] ||= 'Supprimer le fichier'
   lang['Replace With New'] ||= 'Remplacer par le nouveau'
   lang['Reset'] ||= 'Rétablir'
-  lang['Saving…'] ||= 'Saving…'
+  lang['Saving…'] ||= 'Sauvegarde…'
   lang['Search'] ||= 'Recherche'
   lang['Search Terms'] ||= 'Critères de recherche'
   lang['- select -'] ||= ' - sélectionner -'
   lang['Show'] ||= 'Afficher'
   lang['Show %s'] ||= 'Afficher %s'
-  lang[' to '] ||= ' to '
+  lang[' to '] ||= ' à '
   lang['Update'] ||= 'Mettre à jour'
   lang['Update %s'] ||= 'Mettre à jour %s'
   lang['Updated %s'] ||= '%s mis à jour'
@@ -69,11 +69,11 @@ ActiveScaffold::Localization.define('fr-fr') do |lang|
     # Dates
   lang[:date_helper] = {
     :calendar_help => "yyyy-mm-dd or use calendar",
-    :calendar_tool_tip => 'Click to Show Calendar
-or try these Shortcuts:
-today (tod)
-tomorrow (tom)
-yesterday
+    :calendar_tool_tip => 'Lien 
+ pour voir le calendrier ou raccourcis:
+ajourd hui (tod)
+demain (tom)
+hier
 6 (6th or 6th October)
 3rd of Feb
 12 feb

@@ -1,14 +1,14 @@
 ActiveScaffold::Localization.define('es-ar') do |lang| 
-  lang['Add'] ||= 'Add'
-  lang['Add Existing'] ||= 'Add Existing'
+  lang['Add'] ||= 'Nuevo'
+  lang['Add Existing'] ||= 'Agregar existente'
   lang['Are you sure?'] ||= '¿Está seguro?' 
   lang['Cancel'] ||= 'Cancelar'
-  lang['Click to edit'] ||= 'Click to edit'
-  lang['Close'] ||= 'Close'
+  lang['Click to edit'] ||= 'Click para editar'
+  lang['Close'] ||= 'Cerrar'
   lang['Create'] ||= 'Crear'
   lang['Create %s'] ||= 'Crear %s'
   lang['Created %s'] ||= 'Creado %s'
-  lang['Create Another'] ||= 'Create Another'
+  lang['Create Another'] ||= 'Crear Otro'
   lang['Create New'] ||= 'Crear Nuevo' 
   lang['Customize'] ||= 'Customize'
   lang['Delete'] ||= 'Eliminar' 
@@ -16,39 +16,39 @@ ActiveScaffold::Localization.define('es-ar') do |lang|
   lang['Delimiter'] ||= 'Delimiter'
   lang['Download'] ||= 'Download'
   lang['Edit'] ||= 'Editar' 
-  lang['Export'] ||= 'Export'
+  lang['Export'] ||= 'Exportar'
   lang['%s for %s'] ||= '%s por %s'
-  lang['%d %s found'] ||= '%d %s found'
-  lang['(Filtered)'] ||= '(Filtered)'
-  lang['Found'] ||= 'Found'
+  lang['%d %s found'] ||= '%d %s encontrado/s'
+  lang['(Filtered)'] ||= '(Filtrados)'
+  lang['Found'] ||= 'registros encontrados'
   lang['Live Search'] ||= 'Live Search'
-  lang['Loading…'] ||= 'Loading…'
+  lang['Loading…'] ||= 'Cargando…'
   lang['Next'] ||= 'Siguiente'
-  lang['Next %d'] ||= 'Next %d'
+  lang['Next %d'] ||= 'Siguiente %d'
   lang['No Entries'] ||= 'No hay entradas' 
-  lang['Omit Header'] ||= 'Omit Header'
-  lang['Options'] ||= 'Options'
+  lang['Omit Header'] ||= 'Omitir Encabezado'
+  lang['Options'] ||= 'Opciones'
   lang['PDF'] ||= 'PDF'
   lang['Previous'] ||= 'Anterior'
-  lang['Previous %d'] ||= 'Previous %d'
-  lang['Print'] || 'Print'
-  lang['Remove'] ||= 'Remove'
-  lang['Remove file'] ||= 'Remove or Replace file'
-  lang['Replace With New'] ||= 'Replace With New'
+  lang['Previous %d'] ||= 'Anterior %d'
+  lang['Print'] || 'Imprimir'
+  lang['Remove'] ||= 'Eliminar'
+  lang['Remove file'] ||= 'Eliminar o Descartar Archivo'
+  lang['Replace With New'] ||= 'Reemplazar con uno nuevo'
   lang['Reset'] ||= 'Restablecer' 
-  lang['Saving…'] ||= 'Saving…'
+  lang['Saving…'] ||= 'Guardando…'
   lang['Search'] ||= 'Buscar'
-  lang['Search Terms'] ||= 'Search Terms'
-  lang['- select -'] ||= ' - sélectionner -'
+  lang['Search Terms'] ||= 'Parámetros de búsqueda'
+  lang['- select -'] ||= ' - seleccionar -'
   lang['Show'] ||= 'Mostrar'
-  lang['Show %s'] ||= 'Show %s'
+  lang['Show %s'] ||= 'Mostrar %s'
   lang[' to '] ||= ' to '
   lang['Update'] ||= 'Actualizar'
   lang['Update %s'] ||= 'Actualizar %s'
   lang['Updated %s'] ||= 'Actualizado %s'
   
   # AS error messages
-  lang['Version inconsistency - this record has been modified since you started editing it.'] ||= 'Version inconsistency - this record has been modified since you started editing it.'
+  lang['Version inconsistency - this record has been modified since you started editing it.'] ||= 'Inconsistencia de versiones - este registro fue modificado por otra persona mientras vos lo modificabas.'
   
   # Rails error messages
   lang["is not included in the list"] ||= "no está incluido en la lista"
@@ -63,8 +63,8 @@ ActiveScaffold::Localization.define('es-ar') do |lang|
   lang["is the wrong length (should be %d characters)"] ||= "es demasiado corto (el mínimo es %d caracteres)"
   lang["has already been taken"] ||= "ya está ocupado"
   lang["is not a number"] ||= "no es un número"
-  lang['%d error prohibited this %s from being saved'] ||= {1 => '%d erro proibiram este %s de ser criado', 2 => '%d erros proibiram este %s de ser criado'}
-  lang['There were problems with the following fields:'] ||= 'Había problemas con los campos siguientes:'
+  lang['%d error prohibited this %s from being saved'] ||= {1 => '%d error impidió que %s fuese guardado.', 2 => '%d error impidió que %s fuese guardado.'}
+  lang['There were problems with the following fields:'] ||= 'Hubo problemas con los siguientes campos:'
 
     # Dates
   lang[:date_helper] = {
@@ -97,50 +97,50 @@ last mon
     :date_helper_am => 'am',
     :date_helper_pm => 'pm',
     :date_helper_month_names => ['',
-     'January',
-     'February',
-     'March',
-     'April',
-     'May',
-     'June',
-     'July',
-     'August',
-     'September',
-     'October',
-     'November',
-     'December'],
+     'Enero',
+     'Febrero',
+     'Marzo',
+     'Abril',
+     'Mayo',
+     'Junio',
+     'Julio',
+     'Agosto',
+     'Septiembre',
+     'Octubre',
+     'Noviembre',
+     'Diciembre'],
 
     :date_helper_abbr_month_names => ['',
-      'Jan',
+      'Ene',
       'Feb',
       'Mar',
-      'Apr',
+      'Abr',
       'May',
       'Jun',
       'Jul',
-      'Aug',
+      'Ago',
       'Sep',
       'Oct',
       'Nov',
-      'Dec'],
+      'Dic'],
 
     :date_helper_day_names => [
-      'Sunday',
-      'Monday',
-      'Tuesday',
-      'Wednesday',
-      'Thursday',
-      'Friday',
-      'Saturday'],
+      'Domingo',
+      'Lunes',
+      'Martes',
+      'Miércoles',
+      'Jueves',
+      'Viernes',
+      'Sábado'],
 
     :date_helper_abbr_day_names => [
-      'Sun',
-      'Mon',
-      'Tue',
-      'Wed',
-      'Thu',
-      'Fri', 
-      'Sat']
+      'Dom',
+      'Lun',
+      'Mar',
+      'Mie',
+      'Jue',
+      'Vie', 
+      'Sáb']
   }
 
   lang[:countries_list] = [
