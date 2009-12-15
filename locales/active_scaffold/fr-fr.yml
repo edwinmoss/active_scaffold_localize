@@ -1,6 +1,6 @@
 fr-fr:
   locale_name: "French"
-    active_scaffold:
+  active_scaffold:
     add:                            'Add'
     add_existing:                   'Ajouter des données existantes'
     add_existing_model:             "Add Existing {{model}}"

@@ -34,7 +34,7 @@ cs-cz:
     options:                        'Možnosti'
     pdf:                            'PDF'
     previous:                       'Předchozí'
-    lang['Print']                   'Print'
+    print:                          'Print'
     refresh:                        "Refresh"
     remove:                         'Odstranit'
     remove_file:                    'Odstranit nebo nahradit soubor'

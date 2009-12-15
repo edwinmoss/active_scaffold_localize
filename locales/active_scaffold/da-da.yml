@@ -21,8 +21,6 @@ da-da:
     download:                       'Download'
     edit:                           'Ret'
     export:                         'Export'
-    lang['%s for %s'] ||= '%s for %s'
-    lang['%d %s found'] ||= '%d %s found'
     filtered:                       '(Filtered)'
     filtered__click_to_reset:       "Filtered - Click to reset"
     found:                          'Fundet'
@@ -31,13 +29,11 @@ da-da:
     loading…:                       'Loading…'
     nested_for_model:               "{{nested_model}} for {{parent_model}}"
     next:                           'N&aelig;ste'
-    lang['Next %d'] ||= 'Next %d'
     no_entries:                     'Ingen r&aelig;kker'
     omit_header:                    'Omit Header'
     options:                        'Options'
     pdf:                            'PDF'
     previous:                       'Forrige'
-    lang['Previous %d'] ||= 'Previous %d'
     print:                          'Print'
     refresh:                        "Refresh"
     remove:                         'Fjern'
@@ -55,8 +51,6 @@ da-da:
     update:                         'Opdater'
     update_model:                   'Opdater'
     updated_model:                   'Opdaterede %s'
-
-    # AS error messages
     '=':                            '='
     '>=':                           '>='
     '<=':                           '<='
