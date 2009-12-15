@@ -1,63 +1,77 @@
-"en-us":
+en-us:
   locale_name: "English"
   active_scaffold:
-    add:                  "Add"
-    add_existing:         "Add Existing"
-    are_you_sure:         "Are you sure?"
-    cancel:               "Cancel"
-    click_to_edit:        "Click to edit"
-    close:                "Close"
-    create:               "Create"
-    create_model:         "Create {{model}}"
-    create_another:       "Create Another"
-    created_model:        "Created {{model}}"
-    create_new:           "Create New"
-    customize:            "Customize"
-    delete:               "Delete"
-    deleted_model:        "Deleted {{model}}"
-    delimiter:            "Delimiter"
-    download:             "Download"
-    edit:                 "Edit"
-    export:               "Export"
-    filtered:             "(Filtered)"
-    found:                "Found"
-    hide:                 "Hide"
-    live_search:          "Live Search"
-    loading…:             "Loading…"
-    nested_for_model:     "{{nested_model}} for {{parent_model}}"
-    next:                 "Next"
-    no_entries:           "No Entries"
-    omit_header:          "Omit Header"
-    options:              "Options"
-    pdf:                  "PDF"
-    previous:             "Previous"
-    print:                "Print"
-    refresh:              "Refresh"
-    remove:               "Remove"
-    remove_file:          "Remove or Replace file"
-    replace_with_new:     "Replace With New"
-    revisions_for_model:  "Revisions for {{model}}"
-    reset:                "Reset"
-    saving…:              "Saving…"
-    search:               "Search"
-    search_terms:         "Search Terms"
-    _select_:             "- select -"
-    show:                 "Show"
-    show_model:           "Show {{model}}"
-    _to_ :                " to "
-    update:               "Update"
-    update_model:         "Update {{model}}"
-    udated_model:         "Updated {{model}}"
-
-    percentage_example:   "Ex. 10%"
-    usa_phone_example:    "Ex. 111-333-4444"
-    usa_money_example:    "Ex. 1,333"
-    usa_zip_example:      "Ex. 88888-3333"
-    ssn_example:          "Ex. 555-22-3333"
+    add:                            "Add"
+    add_existing:                   "Add Existing"
+    add_existing_model:             "Add Existing {{model}}"
+    are_you_sure:                   "Are you sure?"
+    cancel:                         "Cancel"
+    click_to_edit:                  "Click to edit"
+    close:                          "Close"
+    create:                         "Create"
+    create_another:                 "Create Another"
+    create_another_model:           "Create Another - {{model}}"
+    create_model:                   "Create {{model}}"
+    created_model:                  "Created {{model}}"
+    create_new:                     "Create New"
+    customize:                      "Customize"
+    delete:                         "Delete"
+    deleted_model:                  "Deleted {{model}}"
+    delimiter:                      "Delimiter"
+    download:                       "Download"
+    edit:                           "Edit"
+    export:                         "Export"
+    filtered:                       "(Filtered)"
+    filtered__click_to_reset:       "Filtered - Click to reset"
+    found:                          "Found"
+    hide:                           "Hide"
+    live_search:                    "Live Search"
+    loading…:                       "Loading…"
+    nested_for_model:               "{{nested_model}} for {{parent_model}}"
+    next:                           "Next"
+    no_entries:                     "No Entries"
+    omit_header:                    "Omit Header"
+    options:                        "Options"
+    pdf:                            "PDF"
+    previous:                       "Previous"
+    print:                          "Print"
+    refresh:                        "Refresh"
+    remove:                         "Remove"
+    remove_file:                    "Remove or Replace file"
+    replace_with_new:               "Replace With New"
+    reset:                          "Reset"
+    revisions_for_model:            "Revisions for {{model}}"
+    saving…:                        "Saving…"
+    search:                         "Search"
+    search_terms:                   "Search Terms"
+    _select_:                       "- select -"
+    show:                           "Show"
+    show_model:                     "Show {{model}}"
+    _to_ :                          " to "
+    update:                         "Update"
+    update_model:                   "Update {{model}}"
+    udated_model:                   "Updated {{model}}"
+    '=':                            '='
+    '>=':                           '>='
+    '<=':                           '<='
+    '>':                            '>'
+    '<':                            '<'
+    '!=':                           '!='
+    is_like:                        'Is like'
+    begins_with:                    'Begins with'
+    ends_with:                      'Ends with'
+    BETWEEN:                        'Is between'
+                                    
+    percentage_example:             "Ex. 10%"
+    phone_example:                  "Ex. 111-333-4444"
+    usa_money_example:              "Ex. 1,333"
+    usa_zip_example:                "Ex. 88888-3333"
+    ssn_example:                    "Ex. 555-22-3333"
     
     # error_messages
     internal_error: "Request Failed (code 500, Internal Error)"
     version_inconsistency: "Version inconsistency - this record has been modified since you started editing it."
+
   date:
     formats:
       # Use the strftime parameters for formats.
@@ -66,6 +80,8 @@
       default: "%Y-%m-%d"
       short: "%b %d"
       long: "%B %d, %Y"
+      long_ordinal: "%e %B %Y"
+      only_day: "%e"
       
     day_names: [Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday]
     abbr_day_names: [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
@@ -78,9 +94,13 @@
 
   time:
     formats:
-      default: "%a, %d %b %Y %H:%M:%S %z"
-      short: "%d %b %H:%M"
+      default: "%Y-%m-%d %H:%M:%S %p"
+      default_long: "%a, %d %b  %H:%M:%S %z"
       long: "%B %d, %Y %H:%M"
+      long_ordinal: "%A %d %B %Y %H:%M:%S %Z"
+      only_second: "%S"
+      short: "%d %b %H:%M"
+      time: "%H:%M"
     am: "am"
     pm: "pm"
       
@@ -89,6 +109,10 @@
     array:
       sentence_connector: "and"
       skip_last_comma: false
+      words_connector: ", "
+      two_words_connector: " and "
+      last_word_connector: " and "
+      
   number:
     # Used in number_with_delimiter()
     # These are also the defaults for 'currency', 'percentage', 'precision', and 'human'
@@ -134,18 +158,21 @@
         # separator: 
         delimiter: ""
         precision: 1
+      storage_units: [Bytes, KB, MB, GB, TB]
 
   # Used in distance_of_time_in_words(), distance_of_time_in_words_to_now(), time_ago_in_words()
   datetime:
     distance_in_words:
       half_a_minute: "half a minute"
       less_than_x_seconds:
+        zero:  "less than zero seconds"
         one:   "less than 1 second"
         other: "less than {{count}} seconds"
       x_seconds:
         one:   "1 second"
         other: "{{count}} seconds"
       less_than_x_minutes:
+        zero:  "less than zero minutes"
         one:   "less than a minute"
         other: "less than {{count}} minutes"
       x_minutes:
@@ -200,6 +227,7 @@
         less_than_or_equal_to: "must be less than or equal to {{count}}"
         odd: "must be odd"
         even: "must be even"
+        
         # Append your own errors here or at the model/attributes scope.
 
       # You can define own errors for models or model attributes.

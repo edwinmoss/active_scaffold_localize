@@ -1,0 +1,261 @@
+"zh-cn":
+  countries:
+    afghanistan:                                    "阿富汗"  #  "Afghanistan"]#
+    aland_islands:                                  'aland_islands'
+    albania:                                        "阿尔巴尼亚"  #   "Albanie"]#
+    algeria:                                        "阿尔及利亚"  #   "Algérie"]#
+    american_samoa:                                 "美属萨摩亚"  #   "Samoa Américaine"]#
+    andorra:                                        "安道尔"  #   "Andorre"]#
+    angola:                                         "安哥拉"  #   "Angola"]#
+    anguilla:                                       "安圭拉岛"  #   "Anguilla"]#
+    antarctica:                                     "南极洲"  #   "Antarctique"]#
+    antigua_and_barbuda:                            "安提瓜和巴布达"  #   "Antigua And Barbuda"]#
+    argentina:                                      "阿根廷"  #   "Argentina"]#
+    armenia:                                        "亚美尼亚"  #   "Armenia"]#
+    aruba:                                          "阿鲁巴"  #   "Aruba"]#
+    australia:                                      "澳大利亚"  #   "Australia"]#
+    austria:                                        "奥地利"  #   "Austria"]#
+    azerbaijan:                                     "阿塞拜疆"  #   "Azerbaijan"]#
+    bahamas:                                        "巴哈马"  #   "Bahamas"]#
+    bahrain:                                        "巴林"  #   "Bahrain"]#
+    bangladesh:                                     "孟加拉国"  #   "Bangladesh"]#
+    barbados:                                       "巴巴多斯"  #   "Barbados"]#
+    belarus:                                        "白俄罗斯"  #   "Belarus"]#
+    belgium:                                        "比利时"  #   "Belgium"]#
+    belize:                                         "伯利兹"  #   "Belize"]#
+    benin:                                          "贝宁"  #   "Benin"]#
+    bermuda:                                        "百慕大群岛"  #   "Bermuda"]#
+    bhutan:                                         "不丹"  #   "Bhutan"]#
+    bolivia:                                        "玻利维亚"  #   "Bolivia"]#
+    bosnia_and_herzegowina:                         "波斯尼亚和黑塞哥维那"  #   "Bosnia and Herzegowina"]#
+    botswana:                                       "博茨瓦纳"  #   "Botswana"]#
+    bouvet_island:                                  "布维岛"  #   "Bouvet Island"]#
+    brazil:                                         "巴西"  #   "Brazil"]#
+    british_indian_ocean_territory:                 "B英属印度洋领地"  #   "British Indian Ocean Territory"]#
+    brunei_darussalam:                              "文莱"  #   "Brunei Darussalam"]#
+    bulgaria:                                       "保加利亚"  #   "Bulgaria"]#
+    burkina_faso:                                   "布基纳法索"  #   "Burkina Faso"]#
+    burma:                                          "缅甸"  #   "Burma"]#
+    burundi:                                        "布隆迪"  #   "Burundi"]#
+    cambodia:                                       "柬埔寨"  #   "Cambodia"]#
+    cameroon:                                       "喀麦隆"  #   "Cameroon"]#
+    canada:                                         "加拿大"  #   "Canada"]#
+    cape_verde:                                     "佛得角"  #   "Cape Verde"]#
+    cayman_islands:                                 "开曼群岛"  #   "Cayman Islands"]#
+    central_african_republic:                       "中非共和国"  #   "Central African Republic"]#
+    chad:                                           "乍得"  #   "Chad"]#
+    chile:                                          "智利"  #   "Chile"]#
+    china:                                          "中国"  #   "China"]#
+    christmas_island:                               "圣诞岛"  #   "Christmas Island"]#
+    cocos_keeling_islands:                          "可可斯群岛"  #   "Cocos (Keeling) Islands"]#
+    colombia:                                       "哥伦比亚"  #   "Colombia"]#
+    comoros:                                        "科摩罗"  #   "Comoros"]#
+    congo:                                          "刚果"  #   "Congo"]#
+    congo_the_democratic_republic_of_the:           "刚果"  #   "Congo# the Democratic Republic of the"]#
+    cook_islands:                                   "库克群岛"  #   "Cook Islands"]#
+    costa_rica:                                     "哥斯达黎加"  #   "Costa Rica"]#
+    cote_divoire:                                   "科特迪瓦"  #   "Cote d'Ivoire"]#
+    croatia:                                        "克罗地亚"  #   "Croatia"]#
+    cuba:                                           "古巴"  #   "Cuba"]#
+    cyprus:                                         "塞浦路斯"  #   "Cyprus"]#
+    czech_republic:                                 "捷克"  #   "Czech Republic"]#
+    denmark:                                        "丹麦"  #   "Denmark"]#
+    djibouti:                                       "吉布提"  #   "Djibouti"]#
+    dominica:                                       "多米尼加联邦"  #   "Dominica"]#
+    dominican_republic:                             "多米尼加共和国"  #   "Dominican Republic"]#
+    east_timor:                                     "东帝汶"  #   "East Timor"]#
+    ecuador:                                        "厄瓜多尔"  #   "Ecuador"]#
+    egypt:                                          "埃及"  #   "Egypt"]#
+    el_salvador:                                    "萨尔瓦多"  #   "El Salvador"]#
+    england:                                        "英格兰"  #   "England"]#
+    equatorial_guinea:                              "赤道几内亚(非洲)"  #   "Equatorial Guinea"]#
+    eritrea:                                        "厄立特里亚"  #   "Eritrea"]#
+    espana:                                          "西班牙"  #   "Espana"]#
+    estonia:                                        "爱沙尼亚"  #   "Estonia"]#
+    ethiopia:                                       "埃塞俄比亚"  #   "Ethiopia"]#
+    falkland_islands_malvinas:                      "福克兰群岛"  #   "Falkland Islands"]#
+    faroe_islands:                                  "法罗群岛"  #   "Faroe Islands"]#
+    fiji:                                           "斐济"  #   "Fiji"]#
+    finland:                                        "芬兰"  #   "Finland"]#
+    france:                                         "法国"  #   "France"]#
+    french_guiana:                                  "法属圭亚那"  #   "French Guiana"]#
+    french_polynesia:                               "法属波利尼西亚"  #   "French Polynesia"]#
+    french_southern_territories:                    "法属南半球领地"  #   "French Southern Territories"]#
+    gabon:                                          "加蓬"  #   "Gabon"]#
+    gambia:                                          "冈比亚"  #   "Gambia  #   "]#
+    georgia:                                        "格鲁吉亚"  #   "Georgia"]#
+    germany:                                        "德国"  #   "Germany"]#
+    ghana:                                          "加纳"  #   "Ghana"]#
+    gibraltar:                                      "直布罗陀"  #   "Gibraltar"]#
+    great_britain:                                  "英国"  #   "Great Britain"]#
+    greece:                                         "希腊"  #   "Greece"]#
+    greenland:                                      "格陵兰"  #   "Greenland"]#
+    grenada:                                        "格林纳达"  #   "Grenada"]#
+    guadeloupe:                                     "瓜德罗普岛（法属）"  #   "Guadeloupe"]#
+    guam:                                           "关岛"  #   "Guam"]#
+    guatemala:                                      "危地马拉"  #   "Guatemala"]#
+    guernsey:                                       'guernsey'
+    guinea:                                         "几内亚"  #   "Guinea"]#
+    guinea_bissau:                                  "几内亚比绍"  #   "Guinea-Bissau"]#
+    guyana:                                         "圭亚那"  #   "Guyana"]#
+    haiti:                                          "海地"  #   "Haiti"]#
+    heard_and_mcdonald_islands:                     "赫德岛和麦克唐纳岛"  #   "Heard and Mc Donald Islands"]#
+    holy_see_vatican_city_state:                    'holy_see_vatican_city_state'
+    honduras:                                       "洪都拉斯"  #   "Honduras"]#
+    hong_kong:                                      "香港"  #   "Hong Kong"]#
+    hungary:                                        "匈牙利"  #   "Hungary"]#
+    iceland:                                        "冰岛"  #   "Iceland"]#
+    india:                                          "印度"  #   "India"]#
+    indonesia:                                      "印度尼西亚"  #   "Indonesia"]#
+    Ireland:                                        "爱尔兰共和国"  #   "Ireland"]#
+    Israel:                                         "以色列"  #   "Israel"]#
+    Italy:                                          "意大利"  #   "Italy"]#
+    iran_islamic_republic_of:                       "伊朗"  #   "Iran"]#
+    iraq:                                           "伊拉克"  #   "Iraq"]#
+    isle_of_man:                                    "Isle of Man"
+    jamaica:                                        "牙买加"  #   "Jamaica"]#
+    japan:                                          "日本"  #   "Japan"]#
+    jersey:                                         "约旦"  #   "Jordan"]#
+    jordan:                                         'jordan'
+    kazakhstan:                                     "哈萨克斯坦"  #   "Kazakhstan"]#
+    kenya:                                          "肯尼亚"  #   "Kenya"]#
+    kiribati:                                       "基里巴斯"  #   "Kiribati"]#
+    korea_democratic_peoples_republic_of:           "韩国"  #   "Korea# Republic of"]#
+    korea_republic_of:                              "南朝鲜"  #   "Korea (South)"]#
+    kuwait:                                         "科威特"  #   "Kuwait"]#
+    kyrgyzstan:                                     "吉尔吉斯坦"  #   "Kyrgyzstan"]#
+    lao_peoples_democratic_republic:                "老挝人民共和国"  #   "Lao Peoples Democratic Republic"]#
+    latvia:                                         "拉脱维亚"  #   "Latvia"]#
+    lebanon:                                        "黎巴嫩"  #   "Lebanon"]#
+    lesotho:                                        "莱索托"  #   "Lesotho"]#
+    liberia:                                        "利比里亚"  #   "Liberia"]#
+    libyan_arab_jamahiriya:                         'libyan_arab_jamahiriya'
+    liechtenstein:                                  "列支敦士登"  #   "Liechtenstein"]#
+    lithuania:                                      "立陶宛"  #   "Lithuania"]#
+    luxembourg:                                     "卢森堡"  #   "Luxembourg"]#
+    macao:                                          "澳门"  #   "Macau"]#
+    macedonia_the_former_yugoslav_republic_of:      "马斯顿"  #   "Macedonia"]#
+    madagascar:                                     "马达加斯加"  #   "Madagascar"]#
+    malawi:                                         "马拉维"  #   "Malawi"]#
+    malaysia:                                       "马来西亚"  #   "Malaysia"]#
+    maldives:                                       "马尔代夫"  #   "Maldives"]#
+    mali:                                           "马里"  #   "Mali"]#
+    malta:                                          "马尔他"  #   "Malta"]#
+    marshall_islands:                               "马里亚那群岛"  #   "Marshall Islands"]#
+    martinique:                                     "马提尼克"  #   "Martinique"]#
+    mauritania:                                     "毛里塔尼亚"  #   "Mauritania"]#
+    mauritius:                                      "毛里求斯"  #   "Mauritius"]#
+    mayotte:                                        "马约特岛"  #   "Mayotte"]#
+    mexico:                                         "墨西哥"  #   "Mexico"]#
+    micronesia_federated_states_of:                 "密克罗尼西亚"  #   "Micronesia# Federated States of"]#
+    moldova_republic_of:                            "摩尔多瓦"  #   "Moldova# Republic of"]#
+    monaco:                                         "摩纳哥"  #   "Monaco"]#
+    mongolia:                                       "蒙古"  #   "Mongolia"]#
+    montenegro:                                     'montenegro'
+    montserrat:                                     "蒙特塞拉特"  #   "Montserrat"]#
+    morocco:                                        "摩洛哥"  #   "Morocco"]#
+    mozambique:                                     "莫桑比克"  #   "Mozambique"]#
+    myanmar:                                        "缅甸"  #   "Myanmar"]#
+    namibia:                                        "纳米比亚"  #   "Namibia"]#
+    nauru:                                          "瑙鲁"  #   "Nauru"]#
+    nepal:                                          "尼泊尔"  #   "Nepal"]#
+    netherlands:                                    "荷兰"  #   "Netherlands"]#
+    netherlands_antilles:                           "荷属安的列斯"  #   "Netherlands Antilles"]#
+    new_caledonia:                                  "新喀里多尼亚"  #   "New Caledonia"]#
+    new_zealand:                                    "新西兰"  #   "New Zealand"]#
+    nicaragua:                                      "尼加拉瓜"  #   "Nicaragua"]#
+    niger:                                          "尼日尔"  #   "Niger"]#
+    nigeria:                                        "尼日利亚"  #   "Nigeria"]#
+    niue:                                           "纽埃"  #   "Niue"]#
+    norfolk_island:                                 "诺福克岛"  #   "Norfolk Island"]#
+    northern_mariana_islands:                       "北爱尔兰自治区"  #   "Northern Ireland"]#
+    northern_mariana_islands:                       "北马里亚纳群岛"  #   "Northern Mariana Islands"]#
+    norway:                                         "挪威"  #   "Norway"]#
+    oman:                                           "阿曼"  #   "Oman"]#
+    pakistan:                                       "巴基斯坦"  #   "Pakistan"]#
+    palau:                                          "帕劳"  #   "Palau"]#
+    palestinian_territory_occupied:                 'palestinian_territory_occupied'
+    panama:                                         "巴拿马"  #   "Panama"]#
+    papua_new_guinea:                               "巴布亚新几内亚"  #   "Papua New Guinea"]#
+    paraguay:                                       "巴拉圭"  #   "Paraguay"]#
+    peru:                                           "秘鲁"  #   "Peru"]#
+    philippines:                                    "菲律宾"  #   "Philippines"]#
+    pitcairn:                                       "皮特克恩岛"  #   "Pitcairn"]#
+    poland:                                         "波兰"  #   "Poland"]#
+    portugal:                                       "葡萄牙"  #   "Portugal"]#
+    puerto_rico:                                    "波多黎各"  #   "Puerto Rico"]#
+    qatar:                                          "卡塔尔"  #   "Qatar"]#
+    reunion:                                        "留尼旺"  #   "Reunion"]#
+    romania:                                        "罗马尼亚"  #   "Romania"]#
+    russian_federation:                             "俄罗斯"  #   "Russia"]#
+    rwanda:                                         "卢旺达"  #   "Rwanda"]#
+    saint_barthelemy:                               "圣基茨和尼维斯联邦"  #   "Saint Kitts and Nevis"]#
+    saint_helena:                                   "圣卢西亚"  #   "Saint Lucia"]#
+    saint_kitts_and_nevis:                          "圣文森特岛"  #   "Saint Vincent and the Grenadines"]#
+    saint_lucia:                                    "东萨摩亚(美)"  #   "Samoa (Independent)"]#
+    saint_pierre_and_miquelon:                      'saint_pierre_and_miquelon'
+    saint_vincent_and_the_grenadines:               'saint_vincent_and_the_grenadines'
+    samoa:                                          'samoa'
+    san_marino:                                     "圣马力诺"  #   "San Marino"]#
+    sao_tome_and_principe:                          "圣多美和普林西比"  #   "Sao Tome and Principe"]#
+    saudi_arabia:                                   "沙特阿拉伯"  #   "Saudi Arabia"]#
+    Scotland:                                       "苏格兰"  #   "Scotland"]#
+    senegal:                                        "塞内加尔"  #   "Senegal"]#
+    serbia:                                         "塞尔维亚和黑山"  #   "Serbia and Montenegro"]#
+    seychelles:                                     "塞舌尔"  #   "Seychelles"]#
+    sierra_leone:                                   "塞拉利昂"  #   "Sierra Leone"]#
+    singapore:                                      "新加坡"  #   "Singapore"]#
+    slovakia:                                       "斯洛伐克"  #   "Slovakia"]#
+    slovenia:                                       "斯洛文尼亚"  #   "Slovenia"]#
+    solomon_islands:                                "所罗门群岛"  #   "Solomon Islands"]#
+    somalia:                                        "索马里"  #   "Somalia"]#
+    south_africa:                                   "南非"  #   "South Africa"]#
+    south_georgia_and_the_south_sandwich_islands:   "南佐治亚和南三明治群岛"  #   "South Georgia and the South Sandwich Islands"]#
+    south_korea:                                    "南朝鲜"  #   "South Korea"]#
+    spain:                                          "西班牙"  #   "Spain"]#
+    sri_lanka:                                      "斯里兰卡"  #   "Sri Lanka"]#
+    st_helana:                                      "海伦娜"  #   "St. Helena"]#
+    sudan:                                          'sudan'
+    st_pierre_and_miquelon:                         "法属圣皮埃尔和密克隆岛"  #   "St. Pierre and Miquelon"]#
+    suriname:                                       "苏里南"  #   "Suriname"]#
+    svalbard_and_jan_mayen:                         "斯马尔巴特和扬马延岛"  #   "Svalbard and Jan Mayen Islands"]#
+    swaziland:                                      "瑞士"  #   "Swaziland"]#
+    sweden:                                         "瑞典"  #   "Sweden"]#
+    switzerland:                                    "斯威士兰"  #   "Switzerland"]#
+    syrian_arab_republic:                           'syrian_arab_republic'
+    taiwan_province_of_china:                       "台湾省"  #   "Taiwan"]#
+    tajikistan:                                     "塔吉克斯坦"  #   "Tajikistan"]#
+    tanzania_united_republic_of:                    "坦桑尼亚"  #   "Tanzania"]#
+    thailand:                                       "泰国"  #   "Thailand"]#
+    timor_leste:                                    'timor_leste'
+    togo:                                           "多哥"  #   "Togo"]#
+    tokelau:                                        "托克劳群岛"  #   "Tokelau"]#
+    tonga:                                          "汤加"  #   "Tonga"]#
+    Trinidad:                                       "特立尼达"  #   "Trinidad"]#
+    trinidad_and_tobago:                            "特立尼达和多巴哥"  #   "Trinidad and Tobago"]#
+    tunisia:                                        "突尼斯"  #   "Tunisia"]#
+    turkey:                                         "土耳其"  #   "Turkey"]#
+    turkmenistan:                                   "土库曼斯坦"  #   "Turkmenistan"]#
+    turks_and_caicos_islands:                       "特克斯科斯群岛"  #   "Turks and Caicos Islands"]#
+    tuvalu:                                         "图瓦鲁"  #   "Tuvalu"]#
+    uganda:                                         "乌干达"  #   "Uganda"]#
+    ukraine:                                        "乌克兰"  #   "Ukraine"]#
+    united_arab_emirates:                           "阿拉伯联合酋长国"  #   "United Arab Emirates"]#
+    united_kingdom:                                 "英国"  #   "United Kingdom"]#
+    united_states:                                  "美国"  #   "United States"]#
+    united_states_minor_outlying_islands:           "美属萨摩亚"  #   "United States Minor Outlying Islands"]#
+    uruguay:                                        "乌拉圭"  #   "Uruguay"]#
+    uzbekistan:                                     "乌兹别克斯坦"  #   "Uzbekistan"]#
+    vanuatu:                                        "瓦努阿图"  #   "Vanuatu"]#
+    vatican_city_state:                             "梵蒂冈城国"  #   "Vatican City State (Holy See)"]#
+    venezuela:                                      "委内瑞拉"  #   "Venezuela"]#
+    viet_nam:                                       "越南"  #   "Viet Nam"]#
+    virgin_islands_british:                         "英属维尔京群岛"  #   "Virgin Islands (British)"]#
+    virgin_islands_us:                              "维京群岛"  #   "Virgin Islands (U.S.)"]#
+    wales:                                          "威尔士"  #   "Wales"]#
+    wallis_and_futuna:                              "瓦利斯和富图纳群岛"  #   "Wallis and Futuna Islands"]#
+    western_sahara:                                 "西撒哈拉"  #   "Western Sahara"]#
+    yemen:                                          "也门"  #   "Yemen"]#
+    zambia:                                         "赞比亚"  #   "Zambia"]#
+    zimbabwe:                                       "津巴布韦"  #   "Zimbabwe"]#
+    

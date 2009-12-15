@@ -1,0 +1,52 @@
+8
+
+dir
+1901
+svn+ssh://edmoss@boston/var/svn-repos/gas/branches/rails2/config/locales/active_scaffold/extras
+svn+ssh://edmoss@boston/var/svn-repos/gas
+
+
+
+2009-12-15T16:04:33.493481Z
+1901
+edmoss
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dc7ce8f8-f165-478d-a20f-82b3a99a053b
+
+fr-ca-countries.yml
+file
+
+
+
+
+2009-12-15T16:04:40.000000Z
+2de140e3b8ba148180014a3075120460
+2009-11-19T04:12:27.406745Z
+1876
+edmoss
+
+zh-countries.yml
+file
+
+
+
+
+2009-12-10T22:12:04.000000Z
+5128fee858f50b8bc6ae14091acf30dc
+2009-12-15T16:04:33.493481Z
+1901
+edmoss
+
