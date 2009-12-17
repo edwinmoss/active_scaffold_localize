@@ -1,3 +1,5 @@
+Contributions welcome!
+
 Option 1:
 
   Download the all the files in locales folder and it's sub-folders into your app's config/locales folder. 
@@ -24,4 +26,8 @@ Option 2:
       I18n.load_path << file
     }
 
-Contributions welcome!
+Then if you want to use LOCALE_OPTIONS in your form:
+
+<% form_tag(:action => "change_language") do %>
+  <%= select_tag(nil, options_for_select([as_(:_select_)] + LOCALE_OPTIONS.collect {|locale| [I18n.backend.translate(locale, :locale_name), locale]}, I18n.locale.to_s), {:name => :lang_code, :onchange => "javascript:submit();"}) %>
+<% end %>
